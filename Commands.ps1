@@ -1,0 +1,2 @@
+$PROFILE | Format-List * -Force
+
